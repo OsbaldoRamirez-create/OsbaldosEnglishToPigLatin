@@ -11,4 +11,3 @@ Example: Child = Ildch + ay = Ildchay
 3. If a word starts with a vowel add the word "way" at the end of the word.
 Example: Awesome = Awesome +way = Awesomeway
 
-4. The output file must retain all of the punctuation used in the input text file, including whitespace, quotation marks, periods, and newlines. 
